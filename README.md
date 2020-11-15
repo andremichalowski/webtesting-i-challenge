@@ -9,7 +9,7 @@ In this project, you will **write unit tests and the implementation code** for a
 ### Task 1: Set Up The Project With Git
 
 Follow these steps to set up and work on your project:
-
+- [x] Initial commit
 - [ ] Create a forked copy of this project.
 - [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
 - [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
